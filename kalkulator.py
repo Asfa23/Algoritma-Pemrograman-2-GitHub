@@ -14,6 +14,8 @@ def bagi (x,y): #buat fungsi untuk pembagian
 angka1 = int(input("masukkan angka pertama: "))
 angka2 = int(input("masukkan angka kedua: "))
 
+angka3 = 3
+
 print("hasil",angka1,"+",angka2,"adalah", tambah(angka1,angka2))
 print("hasil",angka1,"-",angka2,"adalah", kurang(angka1,angka2))
 print("hasil",angka1,"x",angka2,"adalah", kali(angka1,angka2))  
